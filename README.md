@@ -19,4 +19,11 @@ Executer la commande ci dessous une fois dans le dossier de votre projet
 
 $ streamlit run app.py
 
+### Auteurs
+Antoine
+Landry
+Richard
+Ryan
+
+
 
