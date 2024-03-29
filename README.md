@@ -1,6 +1,6 @@
 # PROJET METEO
 
-Ce projet a pour but d'effectuer des prévisions métérologiques.Nos données on été téléchargées sur data gouv.Veuillez trouver le lien : 
+Ce projet a pour but d'effectuer des prévisions métérologiques. Nos données on été téléchargées sur data gouv. Veuillez trouver le lien : 
 
 https://meteo.data.gouv.fr/datasets/6569b2c4f1937611d4c8b1a3
 
